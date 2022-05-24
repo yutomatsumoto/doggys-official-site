@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 株式会社Doggys
 
-You can use the [editor on GitHub](https://github.com/yutomatsumoto/doggys-official-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+2022/5 設立
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 事業内容
+- IT・WEBサービスの企画、開発、制作、運営、販売、管理及び保守並びにそれらに関するコンサルティング業務
+- ITに関するスクールの企画及び運営並びにそれらに関するコンサルティング業務
+- SES（システム・エンジニアリング・サービス）等の人材派遣業
+- 講演会、セミナー等の企画、運営及び管理
+- ゲームの企画、開発、制作、販売、管理及び保守並びにそれらに関するコンサルティング業務
+- 著作権、商標権、意匠権その他の知的財産権の取得、譲渡、利用、利用許諾及び管理
+- 前各号に附帯関連する一切の事業
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yutomatsumoto/doggys-official-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 代表取締役: 松本裕斗
+### 代表取締役: 加藤清二
